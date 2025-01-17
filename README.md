@@ -1,4 +1,4 @@
-# Fifth part of exam
+# Two dimensional sudden approximation
 This is the sudden approximation, a slight extension of the last assignment of this sort.
 
 ### Visualization
